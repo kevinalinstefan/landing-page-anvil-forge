@@ -5,8 +5,7 @@ Built as part of a team during my web development internship in Malta (April –
 
 🔗 **Live site:** [anvilandforge.mt](https://anvilandforge.mt/)
 
-![Screenshot of the landing page](./screenshots/home.png)
-<!-- Haz una captura de la web, guárdala en una carpeta "screenshots" con el nombre home.png -->
+![Screenshot of the landing page](./home.png)
 
 ## About the project
 
